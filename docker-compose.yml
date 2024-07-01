@@ -42,6 +42,7 @@ services:
       - postgres
 
   frontend:
+    env_file: ./frontend/.env.local
     build:
       context: frontend
     image: frontend:latest

@@ -3,3 +3,5 @@ uvicorn==0.25.0
 fastapi==0.109.1
 django-use-email-as-username==1.4.0
 psycopg2==2.9.9
+svix==1.24.0
+PyJWT[crypto]==2.8.0
