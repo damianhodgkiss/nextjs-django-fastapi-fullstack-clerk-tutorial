@@ -1,5 +1,5 @@
 # nextjs-django-fastapi-fullstack-clerk-tutorial
-> This tutorial extends the existing fullstack tutorial by adding Clerk authentication.
+> This tutorial extends the existing fullstack tutorial by adding [Clerk authentication](https://clerk.com/).
 
 ## Pre-requisite
 
